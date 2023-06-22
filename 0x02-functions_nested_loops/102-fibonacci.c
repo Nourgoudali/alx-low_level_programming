@@ -13,7 +13,7 @@ int main (void)
         int i = 0;
         long j = 1, k = 2;
 
-        while (i < 58)
+        while (i < 55)
         {
         if (i == 0)
         printf(", %ld", j);
